@@ -288,8 +288,9 @@ npm install
 
 | Name | Contribution |
 |------|-------------|
-| [Student 1] | [e.g., Backend API, LLM integration, ADRs] |
-| [Student 2] | [e.g., Frontend components, tests, documentation] |
+| [Zaid Alvi] | [Backend API, LLM integration] |
+| [Awaad Noor] | [Frontend components, documentation] |
+| [Bilal Aftab] | [Frontend components, tests] |
 
 **Dataset assigned:** [Your assigned dataset name here]
 
